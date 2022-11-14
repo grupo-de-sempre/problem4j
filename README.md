@@ -1,6 +1,8 @@
 # Problem4j
 
 [![SonarCloud](https://github.com/grupo-de-sempre/problem4j/actions/workflows/build.yaml/badge.svg)](https://github.com/grupo-de-sempre/problem4j/actions/workflows/build.yaml)
+
+
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=grupo-de-sempre_problem4j&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=grupo-de-sempre_problem4j)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=grupo-de-sempre_problem4j&metric=coverage)](https://sonarcloud.io/summary/new_code?id=grupo-de-sempre_problem4j)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=grupo-de-sempre_problem4j&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=grupo-de-sempre_problem4j)
